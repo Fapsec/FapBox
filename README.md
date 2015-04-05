@@ -1,2 +1,35 @@
 # FapBox
 Fapperz High Council's CTF toolbox
+
+ - bin
+    - binwalk
+    - IDA
+    - Ollydbg
+    - GDB
+ - forensic
+    - volatility
+    - foremost
+ - crypto
+    - RSA
+        - RSACTFTools
+    - xor
+        - xortool
+        - xorstuff
+    - caesar, vigenere and co
+        - dcode
+ - web
+    - recon
+        - whatweb
+        - blindelephant
+        - crawlic
+        - CMS
+            - wpscan
+            - dpscan
+            - wpyscan
+    - sqlmap
+    - burp
+    - hackbar
+ - stegano
+    - StegSolve
+    - zsteg
+    - audacity
