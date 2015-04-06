@@ -6,9 +6,11 @@ Fapperz High Council's CTF toolbox
     - IDA
     - Ollydbg
     - GDB
+    - DOTnet reflector
  - forensic
     - volatility
     - foremost
+    - wireshark
  - crypto
     - RSA
         - RSACTFTools
